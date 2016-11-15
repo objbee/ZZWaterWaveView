@@ -4,6 +4,8 @@ Use CAShapeLayer and CADisplayLink to make a view with water wave animation insi
 
 ## Screenshots
 
-![](https://github.com/idevzhou/ZZWaterWaveView/blob/master/Screenshots/0.gif)
+<p align="center">
+<img src="Screenshots/0.gif" width="30%">
+</p>
 
 
